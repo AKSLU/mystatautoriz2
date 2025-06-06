@@ -1,2 +1,2 @@
-# mystatautoriz2
+# mystat-sdk-python
 mystat
